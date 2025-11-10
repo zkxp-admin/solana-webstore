@@ -680,5 +680,3 @@ MIT License - See LICENSE file for details
 ---
 
 **Created by ZKXP Innovation Inc.**
-
-For more information or support, visit [zkxp.io](https://zkxp.io)
