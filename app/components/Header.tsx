@@ -122,11 +122,11 @@ const Header = () => {
             React Router
           </a>
           <a
-            href={"https://docs.codigo.ai"}
+            href={"https://docs.solana.com"}
             target={"_blank"}
             className="mr-5 hover:underline"
           >
-            Código Docs
+            Solana Docs
           </a>
         </nav>
         {publicKey ? (
